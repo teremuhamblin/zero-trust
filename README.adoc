@@ -1,11 +1,10 @@
-= ZERO-TRUST v1.6
-:doctype: article
+= ZERO-TRUST v1.6-beta
+Version durcie et technique.
 
-Politique de sécurité éliminant toute confiance implicite.
-Principe central : NE JAMAIS FAIRE CONFIANCE — TOUJOURS VÉRIFIER.
+== Nouveautés
+* Annexes techniques
+* Durcissement des contrôles
+* Gouvernance renforcée
 
-== Contenu
-* POLICY-ZERO-TRUST.adoc — Politique
-* GOVERNANCE.adoc — Rôles & cycle de version
-* SECURITY.adoc — Signalement vulnérabilités
-* TEMPLATES/ — Registres & formulaires
+== Objectif
+Préparer la version stable conforme NIST/ANSSI.
