@@ -1,11 +1,10 @@
-= Gouvernance ZERO-TRUST v1.6
+= Gouvernance ZERO-TRUST v1.6-beta
 
 == Rôles
-* Maintainer Sécurité
-* Architecte Zero-Trust
-* Auditeur Conformité
+Maintainer | Architecte | Auditeur | Responsable conformité
 
-== Cycle de version
-v1.6 → Stabilisation
-v1.7 → Annexes techniques
-v2.0 → Enterprise-Grade
+== Cycle
+alpha → beta → stable → Enterprise-Grade
+
+== Processus
+Revue | Validation | Audit | Publication
