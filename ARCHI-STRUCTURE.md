@@ -5,18 +5,18 @@
 
 ### 📁 Structure minimale
 ```text
-zero-trust/
+v1.6-beta/
 ├── README.adoc
 ├── POLICY-ZERO-TRUST.adoc
 ├── GOVERNANCE.adoc
 ├── SECURITY.adoc
+├── ANNEXES/
+│   ├── controls.adoc
+│   ├── segmentation.adoc
+│   └── encryption.adoc
 ├── TEMPLATES/
 │   ├── risk-register.adoc
 │   ├── exception-request.adoc
 │   └── audit-checklist.adoc
-└── .github/
-    ├── ISSUE_TEMPLATE/
-    │   ├── incident.md
-    │   └── policy-change.md
-    └── PULLREQUESTTEMPLATE.md
+└── .github/ (identique alpha)
 ```
