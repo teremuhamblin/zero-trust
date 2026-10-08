@@ -1,0 +1,10 @@
+= Gouvernance ZERO-TRUST v1.6-stable
+
+== Rôles
+Sécurité | Architecture | Conformité | Audit
+
+== Cycle
+stable → Enterprise-Grade → BlackOps Edition
+
+== Processus
+Revue | Validation | Audit | Release | Maintenance
