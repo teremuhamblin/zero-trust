@@ -1,0 +1,14 @@
+= Politique ZERO-TRUST v1.6
+
+== Principes
+* Authentification forte
+* Autorisation granulaire
+* Micro-segmentation
+* Chiffrement systématique
+* Monitoring continu
+
+== Périmètre
+Utilisateurs, applications, API, réseau, cloud, terminaux.
+
+== Contrôles
+IAM, least privilege, posture device, détection, réponse incident.

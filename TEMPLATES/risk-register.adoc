@@ -1,0 +1,2 @@
+= Registre des risques (v1.6)
+Risque | Impact | Mesure Zero-Trust | Statut

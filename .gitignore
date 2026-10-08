@@ -1,0 +1,37 @@
+# Logs
+*.log
+logs/
+
+# Temp / Cache
+*.tmp
+*.cache
+tmp/
+cache/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Environnements
+.env
+.env.*
+
+# Editors
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
