@@ -1,0 +1,5 @@
+= Signalement de vulnérabilités
+
+Envoyer tout incident à l’équipe sécurité.
+Aucune donnée sensible dans les tickets.
+Respect strict du protocole ZERO-Trust.
