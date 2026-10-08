@@ -1,0 +1,2 @@
+= Checklist Audit Zero-Trust
+Identité | Autorisation | Segmentation | Chiffrement | Logs
