@@ -1,14 +1,13 @@
-= Politique ZERO-TRUST v1.6
+= Politique
 
-== Principes
-* Authentification forte
-* Autorisation granulaire
-* Micro-segmentation
-* Chiffrement systématique
-* Monitoring continu
+= ZERO-TRUST
 
-== Périmètre
-Utilisateurs, applications, API, réseau, cloud, terminaux.
+== v1.6-stable
 
-== Contrôles
-IAM, least privilege, posture device, détection, réponse incident.
+== Contrôles finalisés
+IAM complet | Least Privilege | Micro-segmentation validée
+Chiffrement systématique | Monitoring | Incident Response
+
+== Conformité
+Alignement NIST SP 800-207
+Alignement ANSSI Zero-Trust 2026
