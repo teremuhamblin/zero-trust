@@ -1,0 +1,2 @@
+= Chiffrement (Beta)
+TLS 1.3 | AES-256 | Secrets | Rotation | Stockage
