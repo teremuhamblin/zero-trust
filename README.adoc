@@ -1,10 +1,8 @@
-= ZERO-TRUST v1.6-beta
-Version durcie et technique.
+= ZERO-TRUST v1.6-stable
+Version finale, conforme, prête pour production.
 
-== Nouveautés
-* Annexes techniques
-* Durcissement des contrôles
-* Gouvernance renforcée
+== Contenu
+Politique finale, gouvernance complète, annexes techniques, conformité.
 
 == Objectif
-Préparer la version stable conforme NIST/ANSSI.
+Déploiement organisationnel + audit + conformité.
