@@ -1,4 +1,6 @@
-= ZERO-TRUST v1.6-stable
+= ZERO-TRUST
+
+== v1.6-stable
 Version finale, conforme, prête pour production.
 
 == Contenu
