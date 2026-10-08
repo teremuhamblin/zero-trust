@@ -1,0 +1,11 @@
+= ZERO-TRUST v1.6
+:doctype: article
+
+Politique de sécurité éliminant toute confiance implicite.
+Principe central : NE JAMAIS FAIRE CONFIANCE — TOUJOURS VÉRIFIER.
+
+== Contenu
+* POLICY-ZERO-TRUST.adoc — Politique
+* GOVERNANCE.adoc — Rôles & cycle de version
+* SECURITY.adoc — Signalement vulnérabilités
+* TEMPLATES/ — Registres & formulaires
